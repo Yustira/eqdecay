@@ -5,4 +5,4 @@ Eqdecay merupakan aplikasi desktop untuk menghitung perkiraan waktu berakhirnya 
 Referensi:
 http://digilib.uinsgd.ac.id/id/eprint/14903
 
-[embed]http://example.com/file.pdf[/embed]
+[embed]https://github.com/Yustira/eqdecay/blob/main/Panduan%20Program%20Earthquake%20Decay.pdf[/embed]
