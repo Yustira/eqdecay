@@ -4,3 +4,5 @@ Eqdecay merupakan aplikasi desktop untuk menghitung perkiraan waktu berakhirnya 
 
 Referensi:
 http://digilib.uinsgd.ac.id/id/eprint/14903
+
+[embed]http://example.com/file.pdf[/embed]
